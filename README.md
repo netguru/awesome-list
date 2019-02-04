@@ -155,7 +155,7 @@ support built in. By Spotify.
 - [pywren](https://github.com/pywren/pywren) - parfor on AWS Lambda
 - [horovod](https://github.com/uber/horovod) - Distributed training framework
 for TensorFlow, Keras, PyTorch, and MXNet by Uber.
-- [dask](https://github.com/dask/dask) - library for parallel computing in Python with dynamic task scheduling. TensorFlow for data.
+- [dask](https://github.com/dask/dask) - library for parallel computing in Python with dynamic task scheduling: numpy computation graphs.
 
 ## Data Visualization
 
