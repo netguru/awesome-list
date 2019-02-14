@@ -63,6 +63,8 @@ deep learning framework committed to best performance on all hardware
 - [cleverhans](https://github.com/tensorflow/cleverhans) - An adversarial
 example library for constructing attacks, building defenses, and benchmarking
 both
+- [Netron](https://github.com/lutzroeder/Netron) - a viewer for neural network,
+deep learning and machine learning models.
 
 ## Dimensionality Reduction
 
