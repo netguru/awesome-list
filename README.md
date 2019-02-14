@@ -169,6 +169,10 @@ JavaScript Required.
 extension
 - [redash](https://github.com/getredash/redash) - Connect to any data source,
 easily visualize, dashboard and share your data.
+- [vega](https://github.com/vega/vega) - visualization grammar, a declarative
+format for creating, saving, and sharing interactive visualization designs.
+With Vega you can describe data visualizations in a JSON format, and generate
+interactive views using either HTML5 Canvas or SVG.
 
 ## Reporting
 
