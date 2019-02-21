@@ -13,7 +13,7 @@ Also, a listed repository should be deprecated if:
 
 - [Repositories](#repositories)
 
-    - [Dummy1](#dummy1)
+    - [Neural style transfer](#neural-style-transfer)
 
 - [Publications implementations](#implementations)
 
@@ -22,10 +22,9 @@ Also, a listed repository should be deprecated if:
 
 # Repositories
 
-## Dummy1
+## Neural style transfer
 
-- [AI-Blocks](https://github.com/MrNothing/AI-Blocks) - a powerful and intuitive
-WYSIWYG interface that allows anyone to create Machine Learning models.
+- [Real Time Style Transfer](https://github.com/jsigee87/real-time-style-transfer) - A real time neural style transfer project for EE 461P Data Science Principles, at the University of Texas at Austin. 
 
 
 # Implementations
