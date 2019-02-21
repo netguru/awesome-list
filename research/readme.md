@@ -27,7 +27,7 @@ Also, a listed repository should be deprecated if:
 ## Model compression
 Here is a larger list of relevant publications and repositories: [Awesome list knowledge distillation](https://github.com/dkozlov/awesome-knowledge-distillation).
 
-- [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - PyTorch - A universal and efficient framework for training well-performing light net [[arxiv.org/abs/1708.04106]](https://arxiv.org/abs/1708.04106) 
+- [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - PyTorch - A universal and efficient framework for training well-performing light net [[paper]](https://arxiv.org/abs/1708.04106) 
 
 - [Knowledge Distillation PyTorch](https://github.com/peterliht/knowledge-distillation-pytorch) - PyTorch - An implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility
 
@@ -35,7 +35,7 @@ Here is a larger list of relevant publications and repositories: [Awesome list k
 
 - [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras) - Keras - Keras implementation of Hinton's knowledge distillation (KD), a way of transferring knowledge from a large model into a smaller model.
 
-- [Quantized distillation](https://github.com/antspy/quantized_distillation) - PyTorch - An implementation of model compression and quantized distillation for the paper [[arxiv.org/abs/1802.05668]](https://arxiv.org/abs/1802.05668)
+- [Quantized distillation](https://github.com/antspy/quantized_distillation) - PyTorch - An implementation of model compression and quantized distillation for the paper [[paper]](https://arxiv.org/abs/1802.05668)
 ## Attention
 
-- [Attention Transfer](https://github.com/szagoruyko/attention-transfer) - PyTorch - code for "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer" [[arxiv.org/abs/1612.03928]](https://arxiv.org/abs/1612.03928)
+- [Attention Transfer](https://github.com/szagoruyko/attention-transfer) - PyTorch - code for "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer" [[paper]](https://arxiv.org/abs/1612.03928)
