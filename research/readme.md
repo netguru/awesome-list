@@ -35,6 +35,7 @@ Here is a larger list of relevant publications and repositories: [Awesome list k
 
 - [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras) - Keras - Keras implementation of Hinton's knowledge distillation (KD), a way of transferring knowledge from a large model into a smaller model.
 
+- [Quantized distillation](https://github.com/antspy/quantized_distillation) - PyTorch - Implements quantized distillation. Code for our paper [Model compression via distillation and quantization](https://arxiv.org/abs/1802.05668)
 ## Attention
 
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer) - PyTorch - code for "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer" [arxiv.org/abs/1612.03928](https://arxiv.org/abs/1612.03928)
