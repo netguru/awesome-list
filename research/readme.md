@@ -33,6 +33,8 @@ Here is a larger list of relevant publications and repositories: [Awesome list k
 
 - [Data-free Knowledge Distillation for Deep Neural Networks](https://github.com/iRapha/replayed_distillation) - Tensorflow - Implementation of Data-free Knowledge Distillation for Deep Neural Networks.
 
+- [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras) - Keras - Keras implementation of Hinton's knowledge distillation (KD), a way of transferring knowledge from a large model into a smaller model.
+
 ## Attention
 
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer) - PyTorch - code for "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer" [arxiv.org/abs/1612.03928](https://arxiv.org/abs/1612.03928)
