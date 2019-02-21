@@ -18,6 +18,7 @@ Also, a listed repository should be deprecated if:
 - [Publications implementations](#implementations)
 
     - [Model compression / knowledge distillation](#model-compression)
+    - [Attention](#attention)
 
 
 # Repositories
@@ -35,3 +36,9 @@ Here is a larger list of relevant publications and repositories: [Awesome list k
 - [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - PyTorch - A universal and efficient framework for training well-performing light net [arxiv.org/abs/1708.04106](https://arxiv.org/abs/1708.04106) 
 
 - [Knowledge Distillation PyTorch](https://github.com/peterliht/knowledge-distillation-pytorch) - PyTorch - An implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility
+
+- [Data-free Knowledge Distillation for Deep Neural Networks](https://github.com/iRapha/replayed_distillation) - Tensorflow - Implementation of Data-free Knowledge Distillation for Deep Neural Networks.
+
+## Attention
+
+- [Attention Transfer](https://github.com/szagoruyko/attention-transfer) - PyTorch - code for "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer" [arxiv.org/abs/1612.03928](https://arxiv.org/abs/1612.03928)
