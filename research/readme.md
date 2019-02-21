@@ -17,7 +17,7 @@ Also, a listed repository should be deprecated if:
 
 - [Publications implementations](#implementations)
 
-    - [Dummy2](#dummy2)
+    - [Model compression / knowledge distillation](#model compression)
 
 
 # Repositories
@@ -30,7 +30,6 @@ WYSIWYG interface that allows anyone to create Machine Learning models.
 
 # Implementations
 
-## Dummy2
+## Model compression
 
-- [fast.ai](https://github.com/fastai/fastai) - The fastai library simplifies
-training fast and accurate neural nets using modern best practices
+- [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - A universal and efficient framework for training well-performing light net
