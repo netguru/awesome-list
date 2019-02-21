@@ -30,6 +30,7 @@ Also, a listed repository should be deprecated if:
 # Implementations
 
 ## Model compression
+Here is a larger list of relevant publications and repositories: [Awesome list knowledge distillation](https://github.com/dkozlov/awesome-knowledge-distillation).
 
 - [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - PyTorch - A universal and efficient framework for training well-performing light net [arxiv.org/abs/1708.04106](https://arxiv.org/abs/1708.04106) 
 
