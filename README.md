@@ -65,6 +65,7 @@ example library for constructing attacks, building defenses, and benchmarking
 both
 - [Netron](https://github.com/lutzroeder/Netron) - a viewer for neural network,
 deep learning and machine learning models.
+[Online viewer](https://lutzroeder.github.io/netron/)
 
 ## Dimensionality Reduction
 
