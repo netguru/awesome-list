@@ -31,4 +31,4 @@ Also, a listed repository should be deprecated if:
 
 ## Model compression
 
-- [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - A universal and efficient framework for training well-performing light net [arxiv.org/abs/1708.04106](https://arxiv.org/abs/1708.04106)
+- [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - PyTorch - A universal and efficient framework for training well-performing light net [arxiv.org/abs/1708.04106](https://arxiv.org/abs/1708.04106) 
