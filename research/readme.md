@@ -17,7 +17,7 @@ Also, a listed repository should be deprecated if:
 
 - [Publications implementations](#implementations)
 
-    - [Model compression / knowledge distillation](#model compression)
+    - [Model compression / knowledge distillation](#model-compression)
 
 
 # Repositories
@@ -32,4 +32,4 @@ WYSIWYG interface that allows anyone to create Machine Learning models.
 
 ## Model compression
 
-- [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - A universal and efficient framework for training well-performing light net
+- [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - A universal and efficient framework for training well-performing light net [arxiv.org/abs/1708.04106](https://arxiv.org/abs/1708.04106)
