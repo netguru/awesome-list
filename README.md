@@ -30,6 +30,7 @@ Also, a listed repository should be deprecated if:
 
     - [Compilers](#compilers)
     - [Data Adapters](#data-adapters)
+    - [Data Gathering](#data-gathering)
     - [Data Management](#data-management)
     - [Job Management](#job-management)
     - [Parallelization](#parallelization)
@@ -140,6 +141,11 @@ converting to and working with CSV, the king of tabular file formats.
 - [redash](https://github.com/getredash/redash) - Connect to any data source,
 easily visualize, dashboard and share your data.
 - [odo](https://github.com/blaze/odo/blob/master/docs/source/index.rst) - Odo migrates between many formats. These include in-memory structures like list, pd.DataFrame and np.ndarray and also data outside of Python like CSV/JSON/HDF5 files, SQL databases, data on remote machines, and the Hadoop File System.
+
+## Data Gathering
+
+- [scrapy](https://github.com/scrapy/scrapy) - high-level library to write
+crawlers and spiders.
 
 ## Data Management
 
