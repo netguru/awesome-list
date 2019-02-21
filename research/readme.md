@@ -24,7 +24,7 @@ Also, a listed repository should be deprecated if:
 
 ## Neural style transfer
 
-- [Real Time Style Transfer](https://github.com/jsigee87/real-time-style-transfer) - A real time neural style transfer project for EE 461P Data Science Principles, at the University of Texas at Austin. 
+- [Real Time Style Transfer](https://github.com/jsigee87/real-time-style-transfer) - A real time neural style transfer project for EE 461P Data Science Principles, at the University of Texas at Austin. This code is associated with the blog post [Real Time Video Neural Style Transfer](https://towardsdatascience.com/real-time-video-neural-style-transfer-9f6f84590832).
 
 
 # Implementations
@@ -32,3 +32,5 @@ Also, a listed repository should be deprecated if:
 ## Model compression
 
 - [Rocket Launching](https://github.com/zhougr1993/Rocket-Launching) - PyTorch - A universal and efficient framework for training well-performing light net [arxiv.org/abs/1708.04106](https://arxiv.org/abs/1708.04106) 
+
+- [Knowledge Distillation PyTorch](https://github.com/peterliht/knowledge-distillation-pytorch) - PyTorch - An implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility
