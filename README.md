@@ -81,7 +81,7 @@ non-linear dimension reduction
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for
 scientific computing with Python.
 - [RAPIDS](https://github.com/rapidsai) - Open GPU Data Science. More
-[here](https://rapids.ai/)
+[here](https://rapids.ai/) or in [cheatsheet](https://rapids.ai/assets/files/cheatsheet.pdf)
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - machine
 learning in Python
 - [scipy](https://github.com/scipy/scipy) - open-source software for
