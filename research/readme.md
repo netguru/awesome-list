@@ -16,6 +16,7 @@ Also, a listed repository should be deprecated if:
     - [Neural style transfer](#neural-style-transfer)
     - [Model compression / knowledge distillation](#model-compression)
     - [Attention](#attention)
+    - [Architecture search](#architecture-search)
 
 
 # Repositories
@@ -36,6 +37,11 @@ Here is a larger list of relevant publications and repositories: [Awesome list k
 - [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras) - Keras - Keras implementation of Hinton's knowledge distillation (KD), a way of transferring knowledge from a large model into a smaller model.
 
 - [Quantized distillation](https://github.com/antspy/quantized_distillation) - PyTorch - An implementation of model compression and quantized distillation for the paper [[paper]](https://arxiv.org/abs/1802.05668)
+
 ## Attention
 
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer) - PyTorch - code for "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer" [[paper]](https://arxiv.org/abs/1612.03928)
+
+## Architecture search
+
+- [Neural Architecture Search](https://github.com/carpedm20/ENAS-pytorch) - PyTorch - implementation of "Efficient Neural Architecture Search via Parameters Sharing" [[paper]](https://arxiv.org/abs/1802.03268)
