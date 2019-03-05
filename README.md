@@ -186,6 +186,8 @@ easily visualize, dashboard and share your data.
 format for creating, saving, and sharing interactive visualization designs.
 With Vega you can describe data visualizations in a JSON format, and generate
 interactive views using either HTML5 Canvas or SVG.
+- [scikit-plot](https://github.com/reiinakano/scikit-plot) - sklearn wrapper to automate
+frequently used  machine learning visualizations.
 
 ## Reporting
 
