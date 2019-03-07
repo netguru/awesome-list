@@ -23,7 +23,9 @@ Also, a listed repository should be deprecated if:
 
 ## Neural style transfer
 
-- [Real Time Style Transfer](https://github.com/jsigee87/real-time-style-transfer) - A real time neural style transfer project for EE 461P Data Science Principles, at the University of Texas at Austin. This code is associated with the blog post [Real Time Video Neural Style Transfer](https://towardsdatascience.com/real-time-video-neural-style-transfer-9f6f84590832).
+- [Real Time Style Transfer](https://github.com/jsigee87/real-time-style-transfer) - PyTorch - A real time neural style transfer project for EE 461P Data Science Principles, at the University of Texas at Austin. This code is associated with the blog post [Real Time Video Neural Style Transfer](https://towardsdatascience.com/real-time-video-neural-style-transfer-9f6f84590832).
+
+- [Fast Neural Style](https://github.com/robertomest/neural-style-keras) - Keras - An implementation of neural style transfer methods using Keras and Tensorflow.
 
 ## Model compression
 Here is a larger list of relevant publications and repositories: [Awesome list knowledge distillation](https://github.com/dkozlov/awesome-knowledge-distillation).
