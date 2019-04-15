@@ -78,6 +78,8 @@ non-linear dimension reduction
 
 ## Multipurpose
 
+- [chainlearn](https://github.com/dimenwarper/chainlearn) - Package providing
+fluent-alike API for `scikit-learn` and `pandas`.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for
 scientific computing with Python.
 - [PyOD](https://github.com/yzhao062/pyod) - Outlier detection library
