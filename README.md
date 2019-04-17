@@ -78,6 +78,8 @@ non-linear dimension reduction
 
 ## Multipurpose
 
+- [gin-config](https://github.com/google/gin-config) - Gin provides
+a lightweight configuration framework for Python, by Google.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for
 scientific computing with Python.
 - [PyOD](https://github.com/yzhao062/pyod) - Outlier detection library
