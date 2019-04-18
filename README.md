@@ -34,11 +34,11 @@ Also, a listed repository should be deprecated if:
     - [Data Adapters](#data-adapters)
     - [Data Gathering](#data-gathering)
     - [Data Management](#data-management)
+    - [Hardware Management](#hardware-management)
     - [Job Management](#job-management)
     - [Parallelization](#parallelization)
     - [Data Visualization](#data-visualization)
     - [Reporting](#reporting)
-    - [Hardware Management](#hardware-management)
 
 # Environments
 
@@ -162,20 +162,6 @@ crawlers and spiders.
 
 - [Quilt](https://github.com/quiltdata/quilt) - Quilt versions and deploys data
 
-## Job Management
-
-- [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that
-helps you build complex pipelines of batch jobs. It handles dependency
-resolution, workflow management, visualization etc. It also comes with Hadoop
-support built in. By Spotify.
-
-## Parallelization
-
-- [pywren](https://github.com/pywren/pywren) - parfor on AWS Lambda
-- [horovod](https://github.com/uber/horovod) - Distributed training framework
-for TensorFlow, Keras, PyTorch, and MXNet by Uber.
-- [dask](https://github.com/dask/dask) - library for parallel computing in Python with dynamic task scheduling: numpy computation graphs.
-
 ## Data Visualization
 
 - [matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python
@@ -195,14 +181,28 @@ interactive views using either HTML5 Canvas or SVG.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - sklearn wrapper to automate
 frequently used  machine learning visualizations.
 
+## Hardware Management
+
+- [nvtop](https://github.com/Syllo/nvtop) - a (h)top like task monitor for NVIDIA GPUs. 
+It can handle multiple GPUs and print information about them in a htop familiar way.
+
+## Job Management
+
+- [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that
+helps you build complex pipelines of batch jobs. It handles dependency
+resolution, workflow management, visualization etc. It also comes with Hadoop
+support built in. By Spotify.
+
+## Parallelization
+
+- [pywren](https://github.com/pywren/pywren) - parfor on AWS Lambda
+- [horovod](https://github.com/uber/horovod) - Distributed training framework
+for TensorFlow, Keras, PyTorch, and MXNet by Uber.
+- [dask](https://github.com/dask/dask) - library for parallel computing in Python with dynamic task scheduling: numpy computation graphs.
+
 ## Reporting
 
 - [tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for
 pytorch (and chainer, mxnet, numpy, ...)
 - [Weights and Biases](https://www.wandb.com) - Experiment Tracking for Deep
 Learning
-
-## Hardware Management
-
-- [nvtop](https://github.com/Syllo/nvtop) - a (h)top like task monitor for NVIDIA GPUs. 
-It can handle multiple GPUs and print information about them in a htop familiar way.
