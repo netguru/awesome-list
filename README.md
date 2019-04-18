@@ -34,6 +34,7 @@ Also, a listed repository should be deprecated if:
     - [Data Adapters](#data-adapters)
     - [Data Gathering](#data-gathering)
     - [Data Management](#data-management)
+    - [Hardware Management](#hardware-management)
     - [Job Management](#job-management)
     - [Parallelization](#parallelization)
     - [Data Visualization](#data-visualization)
@@ -80,6 +81,9 @@ non-linear dimension reduction
 
 - [chainlearn](https://github.com/dimenwarper/chainlearn) - Package providing
 fluent-alike API for `scikit-learn` and `pandas`.
+- [DALI](https://github.com/NVIDIA/DALI) - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications [docs](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/index.html)
+- [gin-config](https://github.com/google/gin-config) - Gin provides
+a lightweight configuration framework for Python, by Google.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for
 scientific computing with Python.
 - [PyOD](https://github.com/yzhao062/pyod) - Outlier detection library
@@ -92,6 +96,7 @@ mathematics, science, and engineering. It includes modules for statistics,
 optimization, integration, linear algebra, Fourier transforms, signal and image
 processing, ODE solvers, and more.
 - [SymPy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python, library for symbolic mathematics
+- [Vaex](https://github.com/vaexio/vaex/) - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. [Project page](https://vaex.io/)
 
 ## Natural Language Processing
 
@@ -159,20 +164,6 @@ crawlers and spiders.
 
 - [Quilt](https://github.com/quiltdata/quilt) - Quilt versions and deploys data
 
-## Job Management
-
-- [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that
-helps you build complex pipelines of batch jobs. It handles dependency
-resolution, workflow management, visualization etc. It also comes with Hadoop
-support built in. By Spotify.
-
-## Parallelization
-
-- [pywren](https://github.com/pywren/pywren) - parfor on AWS Lambda
-- [horovod](https://github.com/uber/horovod) - Distributed training framework
-for TensorFlow, Keras, PyTorch, and MXNet by Uber.
-- [dask](https://github.com/dask/dask) - library for parallel computing in Python with dynamic task scheduling: numpy computation graphs.
-
 ## Data Visualization
 
 - [matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python
@@ -191,6 +182,25 @@ With Vega you can describe data visualizations in a JSON format, and generate
 interactive views using either HTML5 Canvas or SVG.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - sklearn wrapper to automate
 frequently used  machine learning visualizations.
+
+## Hardware Management
+
+- [nvtop](https://github.com/Syllo/nvtop) - a (h)top like task monitor for NVIDIA GPUs. 
+It can handle multiple GPUs and print information about them in a htop familiar way.
+
+## Job Management
+
+- [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that
+helps you build complex pipelines of batch jobs. It handles dependency
+resolution, workflow management, visualization etc. It also comes with Hadoop
+support built in. By Spotify.
+
+## Parallelization
+
+- [pywren](https://github.com/pywren/pywren) - parfor on AWS Lambda
+- [horovod](https://github.com/uber/horovod) - Distributed training framework
+for TensorFlow, Keras, PyTorch, and MXNet by Uber.
+- [dask](https://github.com/dask/dask) - library for parallel computing in Python with dynamic task scheduling: numpy computation graphs.
 
 ## Reporting
 
