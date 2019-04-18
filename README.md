@@ -78,6 +78,7 @@ non-linear dimension reduction
 
 ## Multipurpose
 
+- [DALI](https://github.com/NVIDIA/DALI) - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications [docs](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/index.html)
 - [gin-config](https://github.com/google/gin-config) - Gin provides
 a lightweight configuration framework for Python, by Google.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for
