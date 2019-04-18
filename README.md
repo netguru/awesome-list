@@ -38,6 +38,7 @@ Also, a listed repository should be deprecated if:
     - [Parallelization](#parallelization)
     - [Data Visualization](#data-visualization)
     - [Reporting](#reporting)
+    - [Hardware Management](#hardware-management)
 
 # Environments
 
@@ -200,3 +201,8 @@ frequently used  machine learning visualizations.
 pytorch (and chainer, mxnet, numpy, ...)
 - [Weights and Biases](https://www.wandb.com) - Experiment Tracking for Deep
 Learning
+
+## Hardware Management
+
+- [nvtop](https://github.com/Syllo/nvtop) - a (h)top like task monitor for NVIDIA GPUs. 
+It can handle multiple GPUs and print information about them in a htop familiar way.
