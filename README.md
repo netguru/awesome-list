@@ -78,6 +78,7 @@ non-linear dimension reduction
 
 ## Multipurpose
 
+- [DALI](https://github.com/NVIDIA/DALI) - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications [docs](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/index.html)
 - [gin-config](https://github.com/google/gin-config) - Gin provides
 a lightweight configuration framework for Python, by Google.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for
@@ -92,7 +93,7 @@ mathematics, science, and engineering. It includes modules for statistics,
 optimization, integration, linear algebra, Fourier transforms, signal and image
 processing, ODE solvers, and more.
 - [SymPy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python, library for symbolic mathematics
-- [DALI](https://github.com/NVIDIA/DALI) - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications [docs](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/index.html)
+- [Vaex](https://github.com/vaexio/vaex/) - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. [Project page](https://vaex.io/)
 
 ## Natural Language Processing
 
