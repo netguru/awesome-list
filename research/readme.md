@@ -17,6 +17,7 @@ Also, a listed repository should be deprecated if:
     - [Model compression / knowledge distillation](#model-compression)
     - [Attention](#attention)
     - [Architecture search](#architecture-search)
+    - [NLP](#natural-language-processing)
 
 
 # Repositories
@@ -47,3 +48,7 @@ Here is a larger list of relevant publications and repositories: [Awesome list k
 ## Architecture search
 
 - [Neural Architecture Search](https://github.com/carpedm20/ENAS-pytorch) - PyTorch - implementation of "Efficient Neural Architecture Search via Parameters Sharing" [[paper]](https://arxiv.org/abs/1802.03268)
+
+## Natural Language Processing
+
+- [Datasets for NLP](https://github.com/AcademiaSinicaNLPLab/sentiment_dataset) - contains Movie Reviews (MR), Stanford Sentiment Treebank (SST), Subjectivity dataset (Subj), TREC question dataset (TREC-6), and Customer Reviews dataset (CR).
