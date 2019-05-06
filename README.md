@@ -82,6 +82,7 @@ non-linear dimension reduction
 - [DALI](https://github.com/NVIDIA/DALI) - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications [docs](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/index.html)
 - [gin-config](https://github.com/google/gin-config) - Gin provides
 a lightweight configuration framework for Python, by Google.
+- [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A python package offering a number of re-sampling techniques. Compatible with scikit-learn, is part of scikit-learn-contrib projects.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for
 scientific computing with Python.
 - [PyOD](https://github.com/yzhao062/pyod) - Outlier detection library
