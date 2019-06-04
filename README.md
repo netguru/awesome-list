@@ -34,6 +34,7 @@ Also, a listed repository should be deprecated if:
     - [Data Adapters](#data-adapters)
     - [Data Gathering](#data-gathering)
     - [Data Management](#data-management)
+    - [Feature engineering](#feature-engineering)
     - [Hardware Management](#hardware-management)
     - [Job Management](#job-management)
     - [Parallelization](#parallelization)
@@ -181,6 +182,10 @@ With Vega you can describe data visualizations in a JSON format, and generate
 interactive views using either HTML5 Canvas or SVG.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - sklearn wrapper to automate
 frequently used  machine learning visualizations.
+
+## Feature engineering
+
+- [featuretools](https://github.com/featuretools/featuretools/) - an open source python framework for automated feature engineering.
 
 ## Hardware Management
 
