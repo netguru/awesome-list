@@ -91,6 +91,8 @@ scientific computing with Python.
 [here](https://rapids.ai/) or in [cheatsheet](https://rapids.ai/assets/files/cheatsheet.pdf)
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - machine
 learning in Python
+- [scikit-learn-laboratory (SKLL)](https://github.com/EducationalTestingService/skll) - CLI
+for sklearn, working with configuration files
 - [scipy](https://github.com/scipy/scipy) - open-source software for
 mathematics, science, and engineering. It includes modules for statistics,
 optimization, integration, linear algebra, Fourier transforms, signal and image
