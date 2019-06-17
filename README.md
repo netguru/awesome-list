@@ -26,6 +26,7 @@ Also, a listed repository should be deprecated if:
     - [Natural Language Processing](#natural-language-processing)
     - [Optimization](#optimization)
     - [Probabilistic Programming](#probabilistic-programming)
+    - [Recommender Systems](#recommender-systems)
     - [Speech Processing](#speech-processing)
 
 - [Tools](#tools)
@@ -120,6 +121,11 @@ for performing gradient-free optimization by Facebook Research
 programming with Python and PyTorch by Uber
 - [pgmpy](https://github.com/pgmpy/pgmpy) - Python Library for Probabilistic
 Graphical Models
+
+## Recommender systems
+
+- [surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for
+building and analyzing recommender systems
 
 ## Speech Processing
 
