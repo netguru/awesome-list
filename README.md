@@ -28,6 +28,7 @@ Also, a listed repository should be deprecated if:
     - [Probabilistic Programming](#probabilistic-programming)
     - [Recommender Systems](#recommender-systems)
     - [Speech Processing](#speech-processing)
+    - [Model deployment](#model-deployment)
 
 - [Tools](#tools)
 
@@ -41,6 +42,7 @@ Also, a listed repository should be deprecated if:
     - [Parallelization](#parallelization)
     - [Data Visualization](#data-visualization)
     - [Reporting](#reporting)
+  
 
 # Environments
 
@@ -142,6 +144,11 @@ a toolkit for speech recognition
 is a project for developing state-of-the-art DNN/RNN hybrid speech recognition
 systems. The DNN part is managed by pytorch, while feature extraction, label
 computation, and decoding are performed with the kaldi toolkit.
+
+## Model Deployment
+
+- [gradio](https://gradio.app/) - Library to easily integrate models into existing python (web) apps.
+
 
 # Tools
 
