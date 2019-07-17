@@ -8,7 +8,7 @@
 
 # Reason of Change
 
-- [ ] New tool to review (please review the tool along with the CR)
+- [ ] New tool to review (please review the tool in the form of a short description in the same CR)
 - [ ] Verified new tool to merge (I used it already)
 - [ ] Tool deprecated / no longer maintained
 - [ ] Tool details changed (project page moved, etc.)
