@@ -109,6 +109,9 @@ processing, ODE solvers, and more.
 library, built on PyTorch.
 - [PyText](https://github.com/facebookresearch/pytext) - A natural language
 modeling framework based on PyTorch by Facebook Research
+- [pytorch-transformers](https://github.com/huggingface/pytorch-transformers) -
+A library of state-of-the-art pretrained models for (NLP) including BERT, GPT,
+GPT-2, Transformer-XL, XLNet and XLM with multiple pre-trained model weights 
 - [flair](https://github.com/zalandoresearch/flair) - A very simple framework
 for state-of-the-art Natural Language Processing (NLP) by Zalando Research
 
