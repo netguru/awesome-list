@@ -173,6 +173,10 @@ converting to and working with CSV, the king of tabular file formats.
 easily visualize, dashboard and share your data.
 - [odo](https://github.com/blaze/odo/blob/master/docs/source/index.rst) - Odo migrates between many formats. These include in-memory structures like list, pd.DataFrame and np.ndarray and also data outside of Python like CSV/JSON/HDF5 files, SQL databases, data on remote machines, and the Hadoop File System.
 
+## Data Annotation
+
+- [doccano](https://github.com/chakki-works/doccano) - Open source text annotation tool for machine learning practitioners.
+
 ## Data Gathering
 
 - [scrapy](https://github.com/scrapy/scrapy) - high-level library to write
