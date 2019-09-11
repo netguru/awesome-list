@@ -214,6 +214,8 @@ frequently used  machine learning visualizations.
 - [nvtop](https://github.com/Syllo/nvtop) - a (h)top like task monitor for NVIDIA GPUs. 
 It can handle multiple GPUs and print information about them in a htop familiar way.
 
+- [s2i](https://github.com/openshift/source-to-image) - Source-to-Image (S2I) is a toolkit and workflow for building reproducible container images from source code. S2I produces ready-to-run images by injecting source code into a container image and letting the container prepare that source code for execution. By creating self-assembling builder images, you can version and control your build environments exactly like you use container images to version your runtime environments.
+
 ## Job Management
 
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that
