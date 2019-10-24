@@ -114,6 +114,9 @@ A library of state-of-the-art pretrained models for (NLP) including BERT, GPT,
 GPT-2, Transformer-XL, XLNet and XLM with multiple pre-trained model weights 
 - [flair](https://github.com/zalandoresearch/flair) - A very simple framework
 for state-of-the-art Natural Language Processing (NLP) by Zalando Research
+- [TextBlob](https://github.com/sloria/TextBlob/) - Simple, Pythonic, text
+processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction,
+translation, and more.
 
 ## Optimization
 
