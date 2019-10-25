@@ -114,6 +114,9 @@ A library of state-of-the-art pretrained models for (NLP) including BERT, GPT,
 GPT-2, Transformer-XL, XLNet and XLM with multiple pre-trained model weights 
 - [flair](https://github.com/zalandoresearch/flair) - A very simple framework
 for state-of-the-art Natural Language Processing (NLP) by Zalando Research
+- [spaCy](https://github.com/explosion/spaCy) - spaCy is a library for advanced 
+Natural Language Processing in Python and Cython. spaCy comes with pretrained 
+statistical models and word vectors, and supports tokenization for 50+ languages.
 
 ## Optimization
 
