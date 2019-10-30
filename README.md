@@ -100,6 +100,9 @@ for sklearn, working with configuration files
 mathematics, science, and engineering. It includes modules for statistics,
 optimization, integration, linear algebra, Fourier transforms, signal and image
 processing, ODE solvers, and more.
+- [statsmodels](https://github.com/statsmodels/statsmodels/) - statistical
+modeling and econometrics in Python: time-series analysis, survival analysis,
+discrete models, Generalized Linear Models
 - [SymPy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python, library for symbolic mathematics
 - [Vaex](https://github.com/vaexio/vaex/) - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. [Project page](https://vaex.io/)
 
@@ -114,6 +117,9 @@ A library of state-of-the-art pretrained models for (NLP) including BERT, GPT,
 GPT-2, Transformer-XL, XLNet and XLM with multiple pre-trained model weights 
 - [flair](https://github.com/zalandoresearch/flair) - A very simple framework
 for state-of-the-art Natural Language Processing (NLP) by Zalando Research
+- [spaCy](https://github.com/explosion/spaCy) - spaCy is a library for advanced 
+Natural Language Processing in Python and Cython. spaCy comes with pretrained 
+statistical models and word vectors, and supports tokenization for 50+ languages.
 - [TextBlob](https://github.com/sloria/TextBlob/) - Simple, Pythonic, text
 processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction,
 translation, and more.
