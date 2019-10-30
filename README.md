@@ -120,6 +120,9 @@ for state-of-the-art Natural Language Processing (NLP) by Zalando Research
 - [spaCy](https://github.com/explosion/spaCy) - spaCy is a library for advanced 
 Natural Language Processing in Python and Cython. spaCy comes with pretrained 
 statistical models and word vectors, and supports tokenization for 50+ languages.
+- [TextBlob](https://github.com/sloria/TextBlob/) - Simple, Pythonic, text
+processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction,
+translation, and more.
 
 ## Optimization
 
