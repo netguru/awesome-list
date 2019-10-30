@@ -100,6 +100,9 @@ for sklearn, working with configuration files
 mathematics, science, and engineering. It includes modules for statistics,
 optimization, integration, linear algebra, Fourier transforms, signal and image
 processing, ODE solvers, and more.
+- [statsmodels](https://github.com/statsmodels/statsmodels/) - statistical
+modeling and econometrics in Python: time-series analysis, survival analysis,
+discrete models, Generalized Linear Models
 - [SymPy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python, library for symbolic mathematics
 - [Vaex](https://github.com/vaexio/vaex/) - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. [Project page](https://vaex.io/)
 
