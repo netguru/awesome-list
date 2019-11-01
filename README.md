@@ -185,6 +185,8 @@ easily visualize, dashboard and share your data.
 ## Data Annotation
 
 - [doccano](https://github.com/chakki-works/doccano) - Open source text annotation tool for machine learning practitioners.
+- [snorkel](https://github.com/snorkel-team/snorkel) - A system for
+quickly generating training data with weak supervision
 
 ## Data Gathering
 
