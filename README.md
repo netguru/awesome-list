@@ -87,6 +87,8 @@ non-linear dimension reduction
 - [gin-config](https://github.com/google/gin-config) - Gin provides
 a lightweight configuration framework for Python, by Google.
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A python package offering a number of re-sampling techniques. Compatible with scikit-learn, is part of scikit-learn-contrib projects.
+- [mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and
+helper modules for Python's data analysis and machine learning libraries.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for
 scientific computing with Python.
 - [PyOD](https://github.com/yzhao062/pyod) - Outlier detection library
