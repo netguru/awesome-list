@@ -247,6 +247,7 @@ for TensorFlow, Keras, PyTorch, and MXNet by Uber.
 
 ## Reporting
 
+- [Interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for
 pytorch (and chainer, mxnet, numpy, ...)
 - [Weights and Biases](https://www.wandb.com) - Experiment Tracking for Deep
