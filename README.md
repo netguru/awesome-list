@@ -128,6 +128,8 @@ translation, and more.
 
 ## Optimization
 
+- [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous 
+Hyperparameter Optimization in Python
 - [nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox
 for performing gradient-free optimization by Facebook Research
 
