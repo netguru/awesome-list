@@ -249,6 +249,7 @@ for TensorFlow, Keras, PyTorch, and MXNet by Uber.
 
 ## Reporting
 
+- [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model
 - [tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for
 pytorch (and chainer, mxnet, numpy, ...)
 - [Weights and Biases](https://www.wandb.com) - Experiment Tracking for Deep
