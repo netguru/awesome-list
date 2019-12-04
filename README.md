@@ -251,3 +251,5 @@ for TensorFlow, Keras, PyTorch, and MXNet by Uber.
 pytorch (and chainer, mxnet, numpy, ...)
 - [Weights and Biases](https://www.wandb.com) - Experiment Tracking for Deep
 Learning
+- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - tool for generating exploratory data 
+analysis for the provided DataFrame - presenting results in the form of HTML report
