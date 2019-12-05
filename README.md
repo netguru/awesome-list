@@ -128,6 +128,8 @@ translation, and more.
 
 ## Optimization
 
+- [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous 
+Hyperparameter Optimization in Python
 - [nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox
 for performing gradient-free optimization by Facebook Research
 
@@ -248,7 +250,10 @@ for TensorFlow, Keras, PyTorch, and MXNet by Uber.
 ## Reporting
 
 - [Interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
+- [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model
 - [tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for
 pytorch (and chainer, mxnet, numpy, ...)
 - [Weights and Biases](https://www.wandb.com) - Experiment Tracking for Deep
 Learning
+- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - tool for generating exploratory data 
+analysis for the provided DataFrame - presenting results in the form of HTML report
