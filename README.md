@@ -2,14 +2,12 @@
 
 The research awesome list can be found [here](research/readme.md)
 
-List of machine learning frameworks and tools. Inspired by
-[`awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
+List of curated machine learning frameworks and tools, inspired by
+[`awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning).
 
-If you want to contribute to this list (please do), just open a pull request.
-Also, a listed repository should be deprecated if:
+# Contribute
 
-- Repository's owner explicitly say that "this library is not maintained".
-- Not committed for long time (2~3 years).
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 # Table of Contents
 
@@ -42,6 +40,8 @@ Also, a listed repository should be deprecated if:
     - [Parallelization](#parallelization)
     - [Data Visualization](#data-visualization)
     - [Reporting](#reporting)
+
+- [License](#license)
   
 
 # Environments
@@ -256,3 +256,15 @@ pytorch (and chainer, mxnet, numpy, ...)
 Learning
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - tool for generating exploratory data 
 analysis for the provided DataFrame - presenting results in the form of HTML report
+
+
+# License
+
+[![CC0][CC0-badge]][CC0-link]
+
+To the extent possible under law, Netguru has waived all copyright
+and related or neighboring rights to this work. See [LICENSE](LICENSE).
+
+<!-- Links -->
+[CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
+[CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
