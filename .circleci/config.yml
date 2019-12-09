@@ -27,7 +27,7 @@ jobs:
             - gems-v1-dep-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
             - gems-v1-dep-{{ arch }}-{{ .Branch }}
             - gems-v1-dep
-      - run: gem install bundler -v 2.0.1
+      - run: gem install bundler -v 2.0.2
       - run:
           name: Which bundler?
           command: bundle -v
