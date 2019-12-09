@@ -4,9 +4,9 @@ executor:
   ruby_machine:
     docker:
       - image: circleci/ruby:2.3.7
-      environment:
-        GEM_HOME: vendor/bundle
-        BUNDLE_PATH: vendor/bundle
+        environment:
+          GEM_HOME: vendor/bundle
+          BUNDLE_PATH: vendor/bundle
 
 jobs:
   checkout_code:
@@ -65,8 +65,3 @@ workflows:
       - run_link_test:
           requires:
             -  install_ruby_dependencies
-
-    
-
-
-
