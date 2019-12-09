@@ -214,8 +214,6 @@ graphing library for Python
 JavaScript Required.
 - [Jupyter Dashboards](https://github.com/jupyter-attic/dashboards) - Jupyter layout
 extension
-- [redash](https://github.com/getredash/redash) - Connect to any data source,
-easily visualize, dashboard and share your data.
 - [vega](https://github.com/vega/vega) - visualization grammar, a declarative
 format for creating, saving, and sharing interactive visualization designs.
 With Vega you can describe data visualizations in a JSON format, and generate
