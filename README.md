@@ -114,7 +114,7 @@ discrete models, Generalized Linear Models
 library, built on PyTorch.
 - [PyText](https://github.com/facebookresearch/pytext) - A natural language
 modeling framework based on PyTorch by Facebook Research
-- [pytorch-transformers](https://github.com/huggingface/pytorch-transformers) -
+- [pytorch-transformers](https://github.com/huggingface/transformers) -
 A library of state-of-the-art pretrained models for (NLP) including BERT, GPT,
 GPT-2, Transformer-XL, XLNet and XLM with multiple pre-trained model weights 
 - [flair](https://github.com/zalandoresearch/flair) - A very simple framework
@@ -138,7 +138,7 @@ for performing gradient-free optimization by Facebook Research
 
 ## Probabilistic Programming
 
-- [pyro](https://github.com/uber/pyro) - Deep universal probabilistic
+- [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic
 programming with Python and PyTorch by Uber
 - [pgmpy](https://github.com/pgmpy/pgmpy) - Python Library for Probabilistic
 Graphical Models
@@ -191,7 +191,7 @@ easily visualize, dashboard and share your data.
 
 ## Data Annotation
 
-- [doccano](https://github.com/chakki-works/doccano) - Open source text annotation tool for machine learning practitioners.
+- [doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioners.
 - [snorkel](https://github.com/snorkel-team/snorkel) - A system for
 quickly generating training data with weak supervision
 
@@ -212,7 +212,7 @@ crawlers and spiders.
 graphing library for Python
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No
 JavaScript Required.
-- [Jupyter Dashboards](https://github.com/jupyter/dashboards) - Jupyter layout
+- [Jupyter Dashboards](https://github.com/jupyter-attic/dashboards) - Jupyter layout
 extension
 - [redash](https://github.com/getredash/redash) - Connect to any data source,
 easily visualize, dashboard and share your data.
@@ -227,7 +227,7 @@ frequently used  machine learning visualizations.
 
 ## Feature engineering
 
-- [featuretools](https://github.com/featuretools/featuretools/) - an open source python framework for automated feature engineering.
+- [featuretools](https://github.com/FeatureLabs/featuretools) - an open source python framework for automated feature engineering.
 
 ## Hardware Management
 
@@ -246,7 +246,7 @@ support built in. By Spotify.
 ## Parallelization
 
 - [pywren](https://github.com/pywren/pywren) - parfor on AWS Lambda
-- [horovod](https://github.com/uber/horovod) - Distributed training framework
+- [horovod](https://github.com/horovod/horovod) - Distributed training framework
 for TensorFlow, Keras, PyTorch, and MXNet by Uber.
 - [dask](https://github.com/dask/dask) - library for parallel computing in Python with dynamic task scheduling: numpy computation graphs.
 
