@@ -6,8 +6,9 @@ List of machine learning repositories and publication algorithms implementation.
 If you want to contribute to this list (please do), just open a pull request.
 Also, a listed repository should be deprecated if:
 
-- Repository's owner explicitly say that "this library is not maintained".
-- Not committed for long time (2~3 years).
+# Contribute
+
+Contributions welcome! Read the [contribution guidelines](../CONTRIBUTING.md) first.
 
 # Table of Contents
 
