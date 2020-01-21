@@ -10,6 +10,9 @@ List of curated machine learning frameworks and tools, inspired by
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 # Table of Contents
+- [Datasets](#datasets)
+
+    - [Speach](#speach)
 
 - [Environments](#environments)
 
@@ -43,6 +46,11 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [License](#license)
   
+# Datasets
+
+## Speach
+
+- [Common-Voice](https://voice.mozilla.org/en) - Multi language, open source database with voice samples that anyone can use to train speech-enabled applications.
 
 # Environments
 
