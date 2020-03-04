@@ -10,12 +10,6 @@ jobs:
           name: install dependencies
           command: |
             gem install awesome_bot
-  test:
-    docker:
-      - image: circleci/ruby:2.6.5
-    working_directory: ~/repo
-    steps:
-      - checkout
       - run:
           name: run tests
           command: |
@@ -26,4 +20,3 @@ workflows:
   build_and_test:
     jobs:
       - build
-      - test
