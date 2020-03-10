@@ -126,7 +126,7 @@ modeling framework based on PyTorch by Facebook Research
 - [pytorch-transformers](https://github.com/huggingface/transformers) -
 A library of state-of-the-art pretrained models for (NLP) including BERT, GPT,
 GPT-2, Transformer-XL, XLNet and XLM with multiple pre-trained model weights 
-- [flair](https://github.com/zalandoresearch/flair) - A very simple framework
+- [flair](https://github.com/flairNLP/flair) - A very simple framework
 for state-of-the-art Natural Language Processing (NLP) by Zalando Research
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic modeling 
 for humans. Enables analysis of plain-text documents for semantic structure. 
